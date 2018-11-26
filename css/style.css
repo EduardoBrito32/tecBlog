@@ -1,0 +1,132 @@
+body{
+	margin: 0px;
+	font-family: Tahoma, Geneva, sans-serif;
+	background-color: #efefef;
+
+}
+header{
+	margin: 0px;
+}
+.container{
+	padding-top: 5px;
+	padding-left: 200px;
+	position: relative;
+	bottom: 19px;
+}
+
+.menuHorizontal{
+	background-color: #ffd400;
+	padding-bottom: 30px;
+	text-align: center;
+
+}
+.menuHorizontal  ul{
+	list-style: none;
+}
+.menuHorizontal  a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+}
+
+.menuHorizontal  a:hover{
+	text-decoration: none;
+	color: orange;
+	background-color: white;
+
+}
+
+
+.menuHorizontal  ul li{
+	display: inline;
+}
+.title{
+font-size: 36px;
+}
+.span1{
+	color: black;
+	font-family: "Arial Black", Gadget, sans-serif;
+	
+}
+.span2{
+	color: white;
+	font-family: "Arial Black", Gadget, sans-serif;
+	
+}
+.artigo{
+	margin-top: 30px;
+	width: 640px;
+	background-color: #fdf9f9;
+	padding: 15px;
+
+}
+.artigo h1{
+	color: #ffd400;
+	margin: 0px;
+}
+.artigo span{
+	font-size: 12px;
+
+}
+.recents{
+	padding:10px;
+
+	position: absolute;
+	top: 35px;
+	left: 900px;
+	margin: 0px;
+	background-color: #fdf9f9;
+	width: 210px;
+}
+.recents h1{
+	color: gray;
+	background: #d4d2d2;
+	padding: 5px;
+	margin: 0px;
+}
+.recents p{
+	margin: 0px;
+}
+.recents a{
+	color: #ffd400;
+	text-decoration: none;
+}
+.menu-lateral{
+		padding:10px;
+	position: absolute;
+	top: 240px;
+	left: 900px;
+	margin: 0px;
+	background-color: #fdf9f9;
+	width: 210px;
+}
+.menu-lateral h1{
+	color: gray;
+	background: #d4d2d2;
+	padding: 5px;
+	margin: 0px;
+
+	}
+.menu-lateral ul li{
+	margin: 0px; 
+	margin-bottom: 20px;
+	list-style: none;
+}
+.menu-lateral  a{
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+}
+
+.menu-lateral  a:hover{
+	text-decoration: none;
+	color: orange;
+	background-color: white;
+
+}
+.footer{
+	padding: 20px;
+	background-color: white;
+	margin: 0px;
+
+}
